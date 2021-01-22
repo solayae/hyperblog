@@ -1,6 +1,22 @@
 body
 {
-    color: indigo;
+    color: tomato;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin: o;
+    padding: o;
+
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid pink;
+    margin: 0 auto;
+}
+container h1
+{
+    font-size: 20px;
 }
