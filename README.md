@@ -10,6 +10,8 @@ Un blog increible para el **[Curso profesional de Git y Github de Platzi](https:
 * Trucos muy locos del profesor
 * Las multiples personalidades de Freddy Vega
 * Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio **este README.md es un chiste.** Diseñado para ejemplo del curso.
 
